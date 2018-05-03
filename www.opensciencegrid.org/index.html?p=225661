@@ -1,0 +1,163 @@
+<!doctype html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/css/bootstrap.osg.min.css" rel="stylesheet">
+	<link href="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+        <meta charset="UTF-8" />
+        <title>Open Science Grid</title>
+        <link rel="stylesheet" href="https://www.opensciencegrid.org/wp-content/themes/osg/style.css" type="text/css" media="screen" />
+        <link rel="pingback" href="https://www.opensciencegrid.org/xmlrpc.php" />
+        	        <link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Open Science Grid &raquo; Astronomy archives are creating new science every day Comments Feed" href="https://www.opensciencegrid.org/astronomy-archives-are-creating-new-science-every-day/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.opensciencegrid.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='https://www.opensciencegrid.org/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.10' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.opensciencegrid.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.opensciencegrid.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.opensciencegrid.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Machine learning insights into molecular science using the Open Science Grid' href='https://www.opensciencegrid.org/machine-learning-insights-into-molecular-science-using-the-open-science-grid/' />
+<link rel='next' title='LIGO Collaborators win 2017 Nobel Prize in Physics' href='https://www.opensciencegrid.org/ligo-collaborators-win-2017-nobel-prize-in-physics/' />
+<meta name="generator" content="WordPress 4.9.3" />
+<link rel="canonical" href="https://www.opensciencegrid.org/astronomy-archives-are-creating-new-science-every-day/" />
+<link rel='shortlink' href='https://www.opensciencegrid.org/?p=225661' />
+<link rel="alternate" type="application/json+oembed" href="https://www.opensciencegrid.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.opensciencegrid.org%2Fastronomy-archives-are-creating-new-science-every-day%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.opensciencegrid.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.opensciencegrid.org%2Fastronomy-archives-are-creating-new-science-every-day%2F&#038;format=xml" />
+<script type='text/javascript'>
+							SG_POPUPS_QUEUE = [];
+							SG_POPUP_DATA = [];
+							SG_APP_POPUP_URL = 'https://www.opensciencegrid.org/wp-content/plugins/popup-builder';
+							SG_POPUP_VERSION='2.61_1;';
+							function sgAddEvent(element, eventName, fn) {
+								if (element.addEventListener)
+									element.addEventListener(eventName, fn, false);
+								else if (element.attachEvent)
+									element.attachEvent('on' + eventName, fn);
+							}
+						</script><link rel="icon" href="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" />
+<meta name="msapplication-TileImage" content="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" />
+	<!--
+	<script src="https://www.opensciencegrid.org/wp-content/themes/osg/jquery-1.9.1.min.js"></script>
+	-->
+</head>
+
+<body>
+
+
+<style type="text/css">
+</style>
+
+<div class="container-narrow">
+
+<div class="masthead">
+	<ul class="nav nav-pills pull-right">
+	<li ><a href="/">Home</a></li>
+	<li ><a href="/about">About</a></li>
+	<li class="active"><a href="/news">News</a></li>
+	<li ><a href="/contact">Contact</a></li>
+	</ul>
+	<h3 class="muted"><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/new_osglogo.78x40.png"><!--<img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/osg.diamonds.64.png">--><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/open_science_grid.png"></h3>
+<h3 style="font-size:18pt"></h3>
+</div>
+
+<hr>
+
+<h3>Astronomy archives are creating new science every day</h3>
+<p>Accumulated data sets from past and current astronomy research are not dead. Researchers are still doing new science with old data and still making new discoveries.</p>
+<p>Steve Groom serves as task manager for the NASA/IPAC Infrared Science Archive (IRSA), part of the Infrared Processing and Analysis Center (IPAC) located on the campus of the California Institute of Technology (Caltech) in Pasadena, California. He and his colleagues archive the data sets from NASA&#8217;s infrared astronomy missions. By preserving the data, they enable more research. One of the most valuable of these is the Spitzer Space Telescope, which was recently instrumental in confirming the existence of Trappist One, a star with several earth-like planets.</p>
+<p>&nbsp;</p>
+<p><center></p>
+<div id="attachment_225691" style="max-width: 477px" class="wp-caption alignnone"><a href="http://www.opensciencegrid.org/wp-content/uploads/2017/08/groom-1.jpg"><img class="wp-image-225691 size-full" src="http://www.opensciencegrid.org/wp-content/uploads/2017/08/groom-1.jpg" alt="" width="467" height="263" srcset="https://www.opensciencegrid.org/wp-content/uploads/2017/08/groom-1.jpg 467w, https://www.opensciencegrid.org/wp-content/uploads/2017/08/groom-1-300x169.jpg 300w" sizes="(max-width: 467px) 100vw, 467px" /></a><p class="wp-caption-text">Figure 1: The TRAPPIST-1 system contains a total of seven planets, all around the size of Earth. Three of them &#8212; TRAPPIST-1e, f and g &#8212; dwell in their star&#8217;s so-called &#8220;habitable zone.&#8221; The habitable zone, or Goldilocks zone, is a band around every star (shown here in green) where astronomers have calculated that temperatures are just right &#8212; not too hot, not too cold &#8212; for liquid water to pool on the surface of an Earth-like world. Courtesy NASA/JPL-Caltech.</p></div>
+<p></center>&nbsp;</p>
+<p>“For example, we are learning how galaxies form by looking at patterns,” says Groom. A partner, the NASA Extra-Galactic Database (NED), compiles measurements of galaxies into a coherent database. Researchers discovered a whole new, previously unknown, class of galaxy (a superluminous spiral). “Theories said it shouldn&#8217;t exist, but the data was there, and someone mined the data. These huge data points need to be put to use, so new science can be done. That can only be achieved through computing.”</p>
+<p>&nbsp;</p>
+<p><center></p>
+<div id="attachment_225701" style="max-width: 257px" class="wp-caption alignnone"><a href="http://www.opensciencegrid.org/wp-content/uploads/2017/08/groom-2.jpg"><img class="wp-image-225701 size-full" src="http://www.opensciencegrid.org/wp-content/uploads/2017/08/groom-2.jpg" alt="" width="247" height="319" srcset="https://www.opensciencegrid.org/wp-content/uploads/2017/08/groom-2.jpg 247w, https://www.opensciencegrid.org/wp-content/uploads/2017/08/groom-2-232x300.jpg 232w" sizes="(max-width: 247px) 100vw, 247px" /></a><p class="wp-caption-text">Figure 2: The Spitzer Space Telescope cryogenic telescope assembly (CTA) being prepared for vibration testing. Courtesy NASA/JPL-Caltech.</p></div>
+<p></center>&nbsp;</p>
+<p>“We are data recyclers,” says Groom. “We exist to support research that the original mission did not envision or could not do. We are now looking at computing because the data volumes are getting really large.”</p>
+<p>Groom presented his work at the Open Science Grid (OSG) All Hands Meeting in March 2017, including research highlights of science that has been done using the archive’s data. Because of this data tsunami, Groom is exploring the use of the OSG.</p>
+<p>“New science is being done not by retrieving a single observation but by looking at large numbers of observations and looking for patterns,” says Groom. To see those patterns, researchers must process all the data or large amounts of it at once. But the data are becoming so large that they are becoming difficult to move.</p>
+<p>“We have a lot of data but not a lot of computing resources to make available to outside researchers,” says Groom. “Researchers have computing but not the data. We are looking to bridge that gap.”</p>
+<p>The Wide-field Infrared Survey Explorer (WISE), which maps the sky in infrared wavelengths, was reactivated in 2013 and renamed NEOWISE to search for solar system objects like asteroids. The data sets consist of both images of the entire sky along with catalogs of measurements made on those images. “If a researcher wants to download the catalog, the logistics are difficult,” says Groom. “In terms of a spreadsheet—even though it isn’t in that format—it would be 120 billion rows. We recently produced a subset of 9.5 billion rows and the compressed ASCII text files are three terabytes.” The researchers must download it, uncompress it, and put it into a usable format.</p>
+<p>Now comes the role of computing. “Researchers need access to capabilities,” says Groom. “We have limited staff, but our purpose is to help researchers get access to that data. So, we are looking for shared computing resources where researchers can get access to the data sets and do the computing. The OSG’s computing resources and good network connectivity make that a good option for the remote researcher who may have neither.”</p>
+<p>Increasingly, they see researchers need to do large-scale data processing, like fast inventories or visualizations, and produce large-scale mosaics of survey data that are useful for researchers.<br />
+The archive can use the OSG to produce these short-term reference products. Groom also wants to understand how their research partners could use the OSG. “We want to provide access without the need to download everything,” says Groom. “Data centers and other archives like us that NASA funds all have large data sets. When a researcher wants to combine data from different sites, they make that happen through high performance computing and high performance networking. We need to become like a third-party broker for the research.”</p>
+<p>Astronomy is a relative newcomer to the need for high performance and high throughput computing. Now, astronomers have a lot more data, like physics did years ago.</p>
+<p>“We help people get science out of existing data,” says Groom. NASA funds missions like the Spitzer space telescope, Hubble, and other survey missions to do certain kinds of science. We track publication metrics (of science done using astronomy datasets), and we look for references to our data sets. We’ve found in some of our major NASA missions that, a few years after these missions go into operation, the number of papers produced by archival research grows to exceed the originally funded missions.”</p>
+<p>For example, a Principal Investigator can write a proposal to observe a particular part of the sky with the Spitzer Space Telescope. Once the data are public, anyone can browse the library of Spitzer data and reuse the data for their own (different) science goals, even if they were not involved with the original proposal,” says Groom.</p>
+<p>Some researchers look at patterns in Spitzer Space Telescope images and apply machine learning techniques to look for classes of objects based on their shape. “Sometimes a star has something like a bubble shell around it (dust has been cleared out by these bubbles),” says Groom. “Researchers have adopted machine learning to look for these bubbles. They have to download huge data sets to do this. The data sets have the potential to be mined but need computing resources.”</p>
+<p>Many other astronomy projects are also producing massive data sets. Groom’s organization is also involved in the Large Synoptic Survey Telescope (LSST) in Chile, which can take images every 30 seconds. “Astronomy is now seeing things as a movie and creating new branches of science,” says Groom. This increases the volume of data. LSST will by itself produce huge amounts of data.</p>
+<p>The Zwicky Transient Facility (ZTF) at Palomar Observatory with a 600 megapixel camera, will go online this summer. It can watch things unfold in near-real time. The ZTF will observe 1 million events per night. Again, this means much more data.</p>
+<p>Next steps</p>
+<p>The archive is seeking to expand the resources it can offer to researchers, and find ways to better support the use of community computing resources such as OSG with those at the archive. “We either need to adjust funding or provide more funding,” says Groom. “We have to focus on the task at hand: We have all this data that needs computing. Astronomy is late to the big-data game and astronomers are new to large data sets. Our job is to help our community get up to speed. We are also talking to our peer archives to hold workshops about ways to write programs to grab data.”</p>
+
+<hr>
+
+</div><!--container-narrow-->
+<footer>
+<div class="footer-content">
+<div class="row-fluid">
+<div class="span8">
+Funded by <a href="http://nsf.gov" target="_blank">National Science Foundation</a> and <a href="http://science.energy.gov/" target="_blank">Department of Energy</a><br>
+</div>
+<div class="span4">
+<p class="pull-right">&copy; 2013-2018 Open Science Grid | <a target="_blank" href="https://twiki.grid.iu.edu/bin/view/Operations/IUPrivacyPolicy">Privacy Policy</a> <!--<a href="https://plus.google.com/117155860240957321314" rel="publisher">Google+</a>--></p>
+<p></p>
+</div>
+</div><!--row-fluid-->
+</div><!--cooter content-->
+</footer>
+
+<script src="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/js/bootstrap.min.js"></script>
+
+<script>
+jQuery(function() {
+		/*bootstrap-ify things*/
+	jQuery("table.icalprop").addClass("pull-right");
+	jQuery("table.ical").addClass("table");
+	jQuery("table.ical .addevent").addClass("pull-right");
+	jQuery("table.ical .map").addClass("pull-left");
+	jQuery(".wysija-submit").addClass("btn btn-primary");
+});
+</script>
+
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/comment-reply.min.js?ver=4.9.3'></script>
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+ 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69012-28', 'opensciencegrid.org');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+

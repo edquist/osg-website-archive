@@ -1,0 +1,341 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  >
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title> Monthly OSG Newsletter - November 2013 </title>
+    <style type="text/css">body {
+        width:100% !important;
+        -webkit-text-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+        margin:0;
+        padding:0;
+    }
+
+    body,table,td,p,a,li,blockquote{
+        -ms-text-size-adjust:100%;
+        -webkit-text-size-adjust:100%;
+    }
+
+    .ReadMsgBody{
+        width:100%;
+    }.ExternalClass {width:100%;}.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}#backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important; background:#e8e8e8;}img {
+        outline:none;
+        text-decoration:none;
+        -ms-interpolation-mode: bicubic;
+    }
+    a img {border:none;}
+    .image_fix {display:block;}p {
+        font-family: "Arial";
+        font-size: 16px;
+        line-height: 150%;
+        margin: 1em 0;
+        padding: 0;
+    }h1,h2,h3,h4,h5,h6{
+        margin:0;
+        padding:0;
+    }h1 {
+        color:#000000 !important;
+        display:block;
+        font-family:Trebuchet MS;
+        font-size:40px;
+        font-style:normal;
+        font-weight:normal;
+        line-height:125%;
+        letter-spacing:normal;
+        margin:0;
+        
+        text-align:left;
+    }h2 {
+        color:#424242 !important;
+        display:block;
+        font-family:Trebuchet MS;
+        font-size:30px;
+        font-style:normal;
+        font-weight:normal;
+        line-height:125%;
+        letter-spacing:normal;
+        margin:0;
+        
+        text-align:left;
+    }h3 {
+        color:#424242 !important;
+        display:block;
+        font-family:Trebuchet MS;
+        font-size:24px;
+        font-style:normal;
+        font-weight:normal;
+        line-height:125%;
+        letter-spacing:normal;
+        margin:0;
+        
+        text-align:left;
+    }table td {border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;}table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }a {
+        color:#0000FF;
+        word-wrap:break-word;
+    }
+    #outlook a {padding:0;}
+    .yshortcuts { color:#0000FF; }
+
+    #wysija_wrapper {
+        background:#e8e8e8;
+        color:#000000;
+        font-family:"Arial";
+        font-size:16px;
+        -webkit-text-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+        
+    }
+
+    .wysija_header_container {
+        mso-border-right-alt: 0;
+        mso-border-left-alt: 0;
+        mso-border-top-alt: 0;
+        mso-border-bottom-alt: 0;
+        
+    }
+
+    .wysija_block {
+        mso-border-right-alt: 0;
+        mso-border-left-alt: 0;
+        mso-border-top-alt: 0;
+        mso-border-bottom-alt: 0;
+        background:#ffffff;
+    }
+
+    .wysija_footer_container {
+        mso-border-right-alt: 0;
+        mso-border-left-alt: 0;
+        mso-border-top-alt: 0;
+        mso-border-bottom-alt: 0;
+        
+    }
+
+    .wysija_viewbrowser_container, .wysija_viewbrowser_container a {
+        font-family: "Arial" !important;
+        font-size: 12px !important;
+        color: #000000 !important;
+    }
+    .wysija_unsubscribe_container, .wysija_unsubscribe_container a {
+        text-align:center;
+        color: #000000 !important;
+        font-size:12px;
+    }
+    .wysija_viewbrowser_container a, .wysija_unsubscribe_container a {
+        text-decoration:underline;
+    }
+    .wysija_list_item {
+        margin:0;
+    }@media only screen and (max-device-width: 480px), screen and (max-width: 480px) {a[href^="tel"], a[href^="sms"] {
+            text-decoration: none;
+            color: #0000FF;pointer-events: none;
+            cursor: default;
+        }
+
+        .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+            text-decoration: default;
+            color: #0000FF !important;
+            pointer-events: auto;
+            cursor: default;
+        }body, table, td, p, a, li, blockquote { -webkit-text-size-adjust:none !important; }body{ width:100% !important; min-width:100% !important; }
+    }@media only screen and (min-device-width: 768px) and (max-device-width: 1024px), screen and (min-width: 768px) and (max-width: 1024px) {a[href^="tel"],
+        a[href^="sms"] {
+            text-decoration: none;
+            color: #0000FF;pointer-events: none;
+            cursor: default;
+        }
+
+        .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+            text-decoration: default;
+            color: #0000FF !important;
+            pointer-events: auto;
+            cursor: default;
+        }
+    }
+
+    @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+    }@media only screen and (-webkit-device-pixel-ratio:.75){}
+    @media only screen and (-webkit-device-pixel-ratio:1){}
+    @media only screen and (-webkit-device-pixel-ratio:1.5){}</style><!--[if IEMobile 7]>
+<style type="text/css">
+
+</style>
+<![endif]--><!--[if gte mso 9]>
+<style type="text/css">.wysija_image_container {
+        padding-top:0 !important;
+    }
+    .wysija_image_placeholder {
+        mso-text-raise:0;
+        mso-table-lspace:0;
+        mso-table-rspace:0;
+        margin-bottom: 0 !important;
+    }
+    .wysija_block .wysija_image_placeholder {
+        margin:2px 1px 0 1px !important;
+    }
+    p {
+        line-height: 110% !important;
+    }
+    h1, h2, h3 {
+        line-height: 110% !important;
+        margin:0 !important;
+        padding: 0 !important;
+    }
+</style>
+<![endif]-->
+
+<!--[if gte mso 15]>
+<style type="text/css">table { font-size:1px; mso-line-height-alt:0; line-height:0; mso-margin-top-alt:0; }
+    tr { font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px; }
+</style>
+<![endif]-->
+
+</head>
+<body bgcolor="#e8e8e8" yahoo="fix">
+    <span style="margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;display:block;background:#e8e8e8;">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" id="wysija_wrapper">
+        <tr>
+            <td valign="top" align="center">
+                <table width="600" cellpadding="0" cellspacing="0" border="0" align="center">
+                    
+                    <tr>
+                        <td width="600" style="min-width:600px;" valign="top" align="center"   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td width="600" style="min-width:600px;" valign="top" align="center">
+                            
+<table class="wysija_header" style="border: 0;border-collapse: collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;clear: both;border: 0;min-width: 100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+ <tr>
+ <td height="1" align="center" class="wysija_header_container" style="font-size:1px;line-height:1%;mso-line-height-rule:exactly;border: 0;min-width: 100%;background-color: #e8e8e8;border: 0;" >
+ 
+ <img width="365" height="50" src="http://www-itb.opensciencegrid.org/wp-content/uploads/2013/04/logo1.png" border="0" alt="" class="image_fix" style="width:365px; height:50px;text-decoration: none;outline: 0;border: 0;display: block;-ms-interpolation-mode: bicubic;" />
+ </td>
+ </tr>
+</table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="600" style="min-width:600px;" valign="top" align="left">
+                            
+
+<table class="wysija_block" style="border: 0;border-collapse: collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;clear: both;border: 0;min-width: 100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+ <tr>
+ 
+ 
+ <td class="wysija_content_container left" style="border: 0;border-collapse: collapse;background-color: transparent;border: 0;padding-top: 10px;padding-right: 17px;padding-bottom: 10px;padding-left: 17px;" align="left" >
+ 
+ 
+ 
+ <table style="border: 0;border-collapse: collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;clear: both;" width="1%" height="325" cellspacing="0" cellpadding="0" border="0" align="left">
+ <tr style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;">
+ <td class="wysija_image_container left" style="border: 0;border-collapse: collapse;border: 1px solid transparent;display: block;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;padding-top: 0;padding-right: 10px;padding-bottom: 0;padding-left: 0;" width="1%" height="325" valign="top">
+ <div align="left" class="wysija_image_placeholder left" style="height:325px;width:325px;border: 0;display: block;margin-top: 0;margin-right: 10px;margin-bottom: 0;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;" >
+ 
+ <a href="http://www.opensciencegrid.org/using-the-osg-to-simulate-dna-protein-interaction-2/" class="wysija_image_link" style="height:325px;width:325px;outline: 0;border: 0;display: block;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;" ><img width="325" height="325" src="http://www.opensciencegrid.org/wp-content/uploads/2013/10/Gordon-150x150.jpg" border="0" alt="Gordon" class="image_fix" style="width:325px; height:325px;text-decoration: none;outline: 0;border: 0;display: block;-ms-interpolation-mode: bicubic;" /></a>
+ </div>
+ </td>
+ </tr>
+ </table>
+
+ <div class="wysija_text_container"><h3 class="align-left" style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;font-size: 24px;color: #424242;color: #424242 !important;background-color: transparent;border: 0;font-weight: normal;font-style: normal;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 125%;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;border: 0;text-align: left;" ><a style="color: #0000FF;color: #0000FF !important;background-color: transparent;border: 0;word-wrap: break-word;" href="http://www.opensciencegrid.org/using-the-osg-to-simulate-dna-protein-interaction-2/" target="_blank">Using the OSG to simulate DNA-protein interaction</a></h3><p style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 16px;color: #000000;color: #000000 !important;background-color: transparent;border: 0;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 150%;margin-top: 1em;margin-right: 0;margin-bottom: 1em;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;word-wrap: break-word;">&nbsp; Gordon Freeman recently defended his doctoral dissertation at the University of Wisconsin–Madison (UWM). Freeman worked in UWM’s de Pablo Research Group, which studies the thermodynamic properties of materials such as DNA and proteins at the nanoscale. He found the Open Science Grid to be indispensable to his research. The focus of Freeman’s work is how DNA interacts with entities &hellip;</p>
+<p style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 16px;color: #000000;color: #000000 !important;background-color: transparent;border: 0;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 150%;margin-top: 1em;margin-right: 0;margin-bottom: 1em;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;word-wrap: break-word;"><a style="color: #0000FF;color: #0000FF !important;background-color: transparent;border: 0;word-wrap: break-word;" href="http://www.opensciencegrid.org/using-the-osg-to-simulate-dna-protein-interaction-2/" target="_blank">Read online.</a></p></div>
+ </td>
+ 
+ </tr>
+</table>
+
+<table class="wysija_block" style="border: 0;border-collapse: collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;clear: both;border: 0;min-width: 100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+ <tr style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;">
+ <td width="100%" valign="middle" class="wysija_divider_container" style="height:1px;background-color: #ffffff;border: 0;padding-top: 15px;padding-right: 17px;padding-bottom: 15px;padding-left: 17px;" align="left">
+ <div align="center">
+ <img src="http://www.opensciencegrid.org/wp-content/uploads/wysija/dividers/solid.jpg" border="0" width="564" height="1" alt="---" class="image_fix" style="width:564px; height:1px;text-decoration: none;outline: 0;border: 0;display: block;-ms-interpolation-mode: bicubic;" />
+ </div>
+ </td>
+ </tr>
+</table>
+
+
+<table class="wysija_block" style="border: 0;border-collapse: collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;clear: both;border: 0;min-width: 100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+ <tr>
+ 
+ 
+ <td class="wysija_content_container left" style="border: 0;border-collapse: collapse;background-color: transparent;border: 0;padding-top: 10px;padding-right: 17px;padding-bottom: 10px;padding-left: 17px;" align="left" >
+ 
+ <div class="wysija_text_container"><h3 class="align-left" style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;font-size: 24px;color: #424242;color: #424242 !important;background-color: transparent;border: 0;font-weight: normal;font-style: normal;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 125%;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;border: 0;text-align: left;" ><a style="color: #0000FF;color: #0000FF !important;background-color: transparent;border: 0;word-wrap: break-word;" href="http://www.opensciencegrid.org/osg-3-2-is-here-2/" target="_blank">OSG 3.2 is here!</a></h3><p style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 16px;color: #000000;color: #000000 !important;background-color: transparent;border: 0;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 150%;margin-top: 1em;margin-right: 0;margin-bottom: 1em;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;word-wrap: break-word;">On November 12, 2013 the OSG Technology area released OSG 3.2.0- thereby launching the new OSG 3.2 release series. For the first time since the OSG began distributing RPMs, we now offer separate and parallel release areas for our software: OSG 3.1 and OSG 3.2. Having two release series allows us to make substantial software changes in 3.2, while supporting older versions &hellip;</p>
+<p style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 16px;color: #000000;color: #000000 !important;background-color: transparent;border: 0;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 150%;margin-top: 1em;margin-right: 0;margin-bottom: 1em;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;word-wrap: break-word;"><a style="color: #0000FF;color: #0000FF !important;background-color: transparent;border: 0;word-wrap: break-word;" href="http://www.opensciencegrid.org/osg-3-2-is-here-2/" target="_blank">Read online.</a></p></div>
+ </td>
+ 
+ </tr>
+</table>
+
+<table class="wysija_block" style="border: 0;border-collapse: collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;clear: both;border: 0;min-width: 100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+ <tr style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;">
+ <td width="100%" valign="middle" class="wysija_divider_container" style="height:1px;background-color: #ffffff;border: 0;padding-top: 15px;padding-right: 17px;padding-bottom: 15px;padding-left: 17px;" align="left">
+ <div align="center">
+ <img src="http://www.opensciencegrid.org/wp-content/uploads/wysija/dividers/solid.jpg" border="0" width="564" height="1" alt="---" class="image_fix" style="width:564px; height:1px;text-decoration: none;outline: 0;border: 0;display: block;-ms-interpolation-mode: bicubic;" />
+ </div>
+ </td>
+ </tr>
+</table>
+
+
+<table class="wysija_block" style="border: 0;border-collapse: collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;clear: both;border: 0;min-width: 100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+ <tr>
+ 
+ 
+ <td class="wysija_content_container left" style="border: 0;border-collapse: collapse;background-color: transparent;border: 0;padding-top: 10px;padding-right: 17px;padding-bottom: 10px;padding-left: 17px;" align="left" >
+ 
+ <div class="wysija_text_container"><h3 class="align-left" style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;font-size: 24px;color: #424242;color: #424242 !important;background-color: transparent;border: 0;font-weight: normal;font-style: normal;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 125%;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;border: 0;text-align: left;" ><a style="color: #0000FF;color: #0000FF !important;background-color: transparent;border: 0;word-wrap: break-word;" href="http://www.opensciencegrid.org/nova-pilot-for-osg-2/" target="_blank">NOvA Pilot for OSG</a></h3><p style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 16px;color: #000000;color: #000000 !important;background-color: transparent;border: 0;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 150%;margin-top: 1em;margin-right: 0;margin-bottom: 1em;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;word-wrap: break-word;">The NOvA particle physics experiment, along with Fermilab’s Scientific Computing Division personnel and systems administrators from participating Open Science Grid institutions, recently deployed its large-scale C++ analysis code to run on demand on participating OSG sites. The resulting production campaign was the culmination of several months of work. The NuMI Off-Axis electron-neutrino Appearance (NOvA) experiment is attempting to observe the &hellip;</p>
+<p style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 16px;color: #000000;color: #000000 !important;background-color: transparent;border: 0;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 150%;margin-top: 1em;margin-right: 0;margin-bottom: 1em;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;word-wrap: break-word;"><a style="color: #0000FF;color: #0000FF !important;background-color: transparent;border: 0;word-wrap: break-word;" href="http://www.opensciencegrid.org/nova-pilot-for-osg-2/" target="_blank">Read online.</a></p></div>
+ </td>
+ 
+ </tr>
+</table>
+
+<table class="wysija_block" style="border: 0;border-collapse: collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;clear: both;border: 0;min-width: 100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+ <tr style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;">
+ <td width="100%" valign="middle" class="wysija_divider_container" style="height:1px;background-color: #ffffff;border: 0;padding-top: 15px;padding-right: 17px;padding-bottom: 15px;padding-left: 17px;" align="left">
+ <div align="center">
+ <img src="http://www.opensciencegrid.org/wp-content/uploads/wysija/dividers/solid.jpg" border="0" width="564" height="1" alt="---" class="image_fix" style="width:564px; height:1px;text-decoration: none;outline: 0;border: 0;display: block;-ms-interpolation-mode: bicubic;" />
+ </div>
+ </td>
+ </tr>
+</table>
+
+
+<table class="wysija_block" style="border: 0;border-collapse: collapse;mso-table-lspace: 0pt; mso-table-rspace: 0pt;clear: both;border: 0;min-width: 100%;" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+ <tr>
+ 
+ 
+ <td class="wysija_content_container left" style="border: 0;border-collapse: collapse;background-color: transparent;border: 0;padding-top: 10px;padding-right: 17px;padding-bottom: 10px;padding-left: 17px;" align="left" >
+ 
+ <div class="wysija_text_container"><h3 class="align-left" style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;font-size: 24px;color: #424242;color: #424242 !important;background-color: transparent;border: 0;font-weight: normal;font-style: normal;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 125%;margin-top: 0;margin-right: 0;margin-bottom: 0;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;border: 0;text-align: left;" ><a style="color: #0000FF;color: #0000FF !important;background-color: transparent;border: 0;word-wrap: break-word;" href="http://www.opensciencegrid.org/pooling-egi-and-osg-resources-wenmr-achieves-full-and-transparent-interoperability-across-the-atlantic-2/" target="_blank">Pooling EGI and OSG resources: WeNMR achieves full and transparent interoperability across the Atlantic</a></h3><p style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 16px;color: #000000;color: #000000 !important;background-color: transparent;border: 0;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 150%;margin-top: 1em;margin-right: 0;margin-bottom: 1em;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;word-wrap: break-word;">The WeNMR (www.wenmr.eu) Virtual Research Community (VRC) (an European FP7 e-Infrastructure project, grant no. 261572), supported by the European Grid Initiative (www.egi.eu), is the largest VRC within the life sciences, with over 575 VO members, a good fraction of which (&gt;15%) corresponding to US users. WeNMR brings together complementary research teams in structural biology and life sciences into a worldwide virtual research community &hellip;</p>
+<p style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size: 16px;color: #000000;color: #000000 !important;background-color: transparent;border: 0;letter-spacing: normal;mso-line-height-rule: exactly;-mso-line-height-rule: exactly;line-height: 150%;margin-top: 1em;margin-right: 0;margin-bottom: 1em;margin-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;word-wrap: break-word;"><a style="color: #0000FF;color: #0000FF !important;background-color: transparent;border: 0;word-wrap: break-word;" href="http://www.opensciencegrid.org/pooling-egi-and-osg-resources-wenmr-achieves-full-and-transparent-interoperability-across-the-atlantic-2/" target="_blank">Read online.</a></p></div>
+ </td>
+ 
+ </tr>
+</table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="600" style="min-width:600px;" valign="top" align="center"   >
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td width="600" style="min-width:600px;" valign="top" align="center"  >
+                            
+                        </td>
+                    </tr>
+                    
+                </table>
+            </td>
+        </tr>
+    </table>
+    </span>
+</body>
+</html>

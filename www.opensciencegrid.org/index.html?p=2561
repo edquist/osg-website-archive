@@ -1,0 +1,150 @@
+<!doctype html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/css/bootstrap.osg.min.css" rel="stylesheet">
+	<link href="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+        <meta charset="UTF-8" />
+        <title>Open Science Grid</title>
+        <link rel="stylesheet" href="https://www.opensciencegrid.org/wp-content/themes/osg/style.css" type="text/css" media="screen" />
+        <link rel="pingback" href="https://www.opensciencegrid.org/xmlrpc.php" />
+        	        <link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Open Science Grid &raquo; Using the OSG to simulate DNA-protein interaction Comments Feed" href="https://www.opensciencegrid.org/using-the-osg-to-simulate-dna-protein-interaction-2/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.opensciencegrid.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='https://www.opensciencegrid.org/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.10' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.opensciencegrid.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.opensciencegrid.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.opensciencegrid.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='OSG 3.2 is here!' href='https://www.opensciencegrid.org/osg-3-2-is-here-2/' />
+<link rel='next' title='OSG CIC webcast on Galaxy-based BLAST submission to OSG' href='https://www.opensciencegrid.org/osg-cic-webcast-on-galaxy-based-blast-submission-to-osg-draft/' />
+<meta name="generator" content="WordPress 4.9.3" />
+<link rel="canonical" href="https://www.opensciencegrid.org/using-the-osg-to-simulate-dna-protein-interaction-2/" />
+<link rel='shortlink' href='https://www.opensciencegrid.org/?p=2561' />
+<link rel="alternate" type="application/json+oembed" href="https://www.opensciencegrid.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.opensciencegrid.org%2Fusing-the-osg-to-simulate-dna-protein-interaction-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.opensciencegrid.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.opensciencegrid.org%2Fusing-the-osg-to-simulate-dna-protein-interaction-2%2F&#038;format=xml" />
+<script type='text/javascript'>
+							SG_POPUPS_QUEUE = [];
+							SG_POPUP_DATA = [];
+							SG_APP_POPUP_URL = 'https://www.opensciencegrid.org/wp-content/plugins/popup-builder';
+							SG_POPUP_VERSION='2.61_1;';
+							function sgAddEvent(element, eventName, fn) {
+								if (element.addEventListener)
+									element.addEventListener(eventName, fn, false);
+								else if (element.attachEvent)
+									element.attachEvent('on' + eventName, fn);
+							}
+						</script><link rel="icon" href="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" />
+<meta name="msapplication-TileImage" content="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" />
+	<!--
+	<script src="https://www.opensciencegrid.org/wp-content/themes/osg/jquery-1.9.1.min.js"></script>
+	-->
+</head>
+
+<body>
+
+
+<style type="text/css">
+</style>
+
+<div class="container-narrow">
+
+<div class="masthead">
+	<ul class="nav nav-pills pull-right">
+	<li ><a href="/">Home</a></li>
+	<li ><a href="/about">About</a></li>
+	<li class="active"><a href="/news">News</a></li>
+	<li ><a href="/contact">Contact</a></li>
+	</ul>
+	<h3 class="muted"><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/new_osglogo.78x40.png"><!--<img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/osg.diamonds.64.png">--><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/open_science_grid.png"></h3>
+<h3 style="font-size:18pt"></h3>
+</div>
+
+<hr>
+
+<h3>Using the OSG to simulate DNA-protein interaction</h3>
+<p>&nbsp;</p>
+<p><a href="http://www.opensciencegrid.org/wp-content/uploads/2013/10/Gordon.jpg"><img class="alignleft" alt="Gordon" src="http://www.opensciencegrid.org/wp-content/uploads/2013/10/Gordon-150x150.jpg" width="150" height="150" /></a></p>
+<p>Gordon Freeman recently defended his doctoral dissertation at the University of Wisconsin–Madison (UWM). Freeman worked in UWM’s de Pablo Research Group, which studies the thermodynamic properties of materials such as DNA and proteins at the nanoscale. He found the Open Science Grid to be indispensable to his research.</p>
+<p>The focus of Freeman’s work is how DNA interacts with entities such as proteins within a cell. “The interactions are not well understood,” Freeman said. Therefore, it is very difficult for us to replicate them. These interactions take place everywhere in the human body and are important for regulatory elements (called the epigenome) and how they are expressed. In particular, Freeman studies diseases where the behavior of DNA in nucleosomes has been implicated. “Understanding how proteins bind to the DNA will greatly further our understanding of how the human body works.”</p>
+<p>The group’s tools are all computational. Researchers first draw on the literature to ensure their models are grounded in reality. The difficulty is figuring out which details are important and which are not, so they have developed several generations of DNA models. Overly simplistic models can be problematic when trying to study complex biological systems, but more detail is computationally expensive. Ultimately, they try to find the tradeoff between essential details and what is computationally feasible.</p>
+<div style="background-color: #e8e8e8; width: 300px; float: right; margin-right: 0px; margin-left: 10px; padding: 22px;"><img class="aligncenter" alt="nucleosome" src="http://www.opensciencegrid.org/wp-content/uploads/2013/10/nucleosome-296x300.png" width="300" height="300" /> DNA is packaged into the nucleus of a cell with the help of a protein complex made up of histone proteins. Shown here is the building block of that structure, called the nucleosome. Using molecular simulation and the OSG, Freeman and his coworkers have found that the physical attributes of DNA dictate the binding of this protein complex. The basic principles that govern this interaction also play an important role in many other DNA-protein binding events and have important implications in better understanding the role of DNA biophysics in disease as well as in engineering new strategies to control gene expression.</div>
+<p>Freeman is interested in the actual biophysics that affect recognition between proteins called histones and DNA. Histones are the proteins that package DNA within the nucleus of a cell. Why will histones bind to DNA in one place but not another? UWM research suggests that the physical attributes of the DNA itself are what drives the interaction between histones and DNA. The group tries to tease out the key biophysical properties that help proteins recognize very specific instances of DNA so as to bind in the right place.</p>
+<p>What makes all this very challenging is that the physical shape of the DNA molecule is critically important for determining which regions of DNA bind most readily to the histones. Therefore, the researchers have a pressing need for computing models that capture all this detail – and that, in turn, means they require significant computing power.</p>
+<p>OSG computing power helps them address those challenges. Freeman and his colleagues can run in excess of 3,000 simulations simultaneously, something they cannot do in their lab. The OSG gives them the resources to run very long simulations that they can break into trivially parallel simulations that don&#8217;t need to communicate with each other. As a result, their productivity has skyrocketed.</p>
+<p>The lab uses HTCondor for simulations. This gives researchers the ability to add a flag to a submit file, telling it to run wherever it can. The data then comes back (it can even be a few days). “It has been easy to learn and minimal work,” says Freeman. “It’s as if everything is running locally at UWM.” Reassembling data on the back end is easy, he notes – the software schedules the jobs, finds the open nodes, sends the executable, and then it sends back the data that has been generated. The group then does local post-processing. Adding the OSG doesn&#8217;t change anything on UWM’s end. It adds the CPU power without adding complexity.One of the many benefits Freeman sees in the OSG is that they are only using computers that are not in use at the moment – the OSG is opportunistic. When computers attached to the OSG are available, other OSG users can use them. “This is efficient and makes the most of valuable resources,” notes Freeman. “Funding agencies should be pleased to know that their resources are being used to the max. The way the OSG works makes that possible.”</p>
+<p>Freeman recommends that other researchers consider whether they have a problem that would benefit from computational power. “Anyone who processes a lot of data—even social sciences—will benefit from the OSG,” he says. “If you can split data into independent jobs, you have seemingly unlimited resources. If they need to change their workflow to take advantage of the OSG, they should. It’s too big of a resource to ignore. Six to seven months of work now becomes one or two months or maybe even only weeks, merely by having more computing nodes available. Three thousand is better than 500. Six times more machines means six times faster.”</p>
+<p>That his family could watch his dissertation defense over streaming media illustrated to him the usefulness of visualization: “What we are discovering about DNA is easy to grasp when you can see it,” says Freeman. “We can now fully illustrate, through computation, how DNA interacts with other entities such as proteins within a cell. We can show the public what our research looks like.” Freeman pointed out that what they discover through computation (in silico), they always confirm in the real world (in vivo) – but he says that computation should matter to the general public because it enables researchers to study a wide range of interactions between key biological molecules in an inexpensive manner. It speeds up drug discovery. Thus, funding science is extremely valuable to everyone.</p>
+<p>Freeman concluded, “Our work doesn’t just describe DNA-protein interaction; we can develop models and make predictions and do everything much cheaper than experimental approaches. Computational power gives scientists powerful tools. If I were to describe our work, it would be like this: If you understand DNA, you can design molecules or objects that complement DNA, and engineer therapeutic agents that bind the same way. Oncogenes are an example. An oncogene is a gene that has the potential to cause cancer. By regulating these genes, we might be able to develop therapeutic treatments for cancer. This is possible through computational power and resources like the Open Science Grid.”</p>
+<p>~<a href="/cdn-cgi/l/email-protection#84e3e9ebebf6e1c4edeae0ede5eae5aae1e0f1">Greg Moore </a>and <a href="/cdn-cgi/l/email-protection#deadb4bbb0b9bbb29eb7b0bab7bfb0bff0bbbaab">Sarah Engel</a></p>
+
+<hr>
+
+</div><!--container-narrow-->
+<footer>
+<div class="footer-content">
+<div class="row-fluid">
+<div class="span8">
+Funded by <a href="http://nsf.gov" target="_blank">National Science Foundation</a> and <a href="http://science.energy.gov/" target="_blank">Department of Energy</a><br>
+</div>
+<div class="span4">
+<p class="pull-right">&copy; 2013-2018 Open Science Grid | <a target="_blank" href="https://twiki.grid.iu.edu/bin/view/Operations/IUPrivacyPolicy">Privacy Policy</a> <!--<a href="https://plus.google.com/117155860240957321314" rel="publisher">Google+</a>--></p>
+<p></p>
+</div>
+</div><!--row-fluid-->
+</div><!--cooter content-->
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script src="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/js/bootstrap.min.js"></script>
+
+<script>
+jQuery(function() {
+		/*bootstrap-ify things*/
+	jQuery("table.icalprop").addClass("pull-right");
+	jQuery("table.ical").addClass("table");
+	jQuery("table.ical .addevent").addClass("pull-right");
+	jQuery("table.ical .map").addClass("pull-left");
+	jQuery(".wysija-submit").addClass("btn btn-primary");
+});
+</script>
+
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/comment-reply.min.js?ver=4.9.3'></script>
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+ 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69012-28', 'opensciencegrid.org');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+

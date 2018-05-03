@@ -1,0 +1,155 @@
+<!doctype html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/css/bootstrap.osg.min.css" rel="stylesheet">
+	<link href="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+        <meta charset="UTF-8" />
+        <title>Open Science Grid</title>
+        <link rel="stylesheet" href="https://www.opensciencegrid.org/wp-content/themes/osg/style.css" type="text/css" media="screen" />
+        <link rel="pingback" href="https://www.opensciencegrid.org/xmlrpc.php" />
+        	        <link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Open Science Grid &raquo; Exploring the origins of mass using fermions and the Open Science Grid Comments Feed" href="https://www.opensciencegrid.org/tackling-strongly-correlated-quantum-systems-on-the-open-science-grid/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.opensciencegrid.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='https://www.opensciencegrid.org/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.10' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.opensciencegrid.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.opensciencegrid.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.opensciencegrid.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Report from the 2015 OSG All-Hands Meeting' href='https://www.opensciencegrid.org/report-from-the-2015-osg-all-hands-meeting/' />
+<link rel='next' title='Researchers &#8211; Marketing' href='https://www.opensciencegrid.org/researchers-marketing/' />
+<meta name="generator" content="WordPress 4.9.3" />
+<link rel="canonical" href="https://www.opensciencegrid.org/tackling-strongly-correlated-quantum-systems-on-the-open-science-grid/" />
+<link rel='shortlink' href='https://www.opensciencegrid.org/?p=215311' />
+<link rel="alternate" type="application/json+oembed" href="https://www.opensciencegrid.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.opensciencegrid.org%2Ftackling-strongly-correlated-quantum-systems-on-the-open-science-grid%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.opensciencegrid.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.opensciencegrid.org%2Ftackling-strongly-correlated-quantum-systems-on-the-open-science-grid%2F&#038;format=xml" />
+<script type='text/javascript'>
+							SG_POPUPS_QUEUE = [];
+							SG_POPUP_DATA = [];
+							SG_APP_POPUP_URL = 'https://www.opensciencegrid.org/wp-content/plugins/popup-builder';
+							SG_POPUP_VERSION='2.61_1;';
+							function sgAddEvent(element, eventName, fn) {
+								if (element.addEventListener)
+									element.addEventListener(eventName, fn, false);
+								else if (element.attachEvent)
+									element.attachEvent('on' + eventName, fn);
+							}
+						</script><link rel="icon" href="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" />
+<meta name="msapplication-TileImage" content="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" />
+	<!--
+	<script src="https://www.opensciencegrid.org/wp-content/themes/osg/jquery-1.9.1.min.js"></script>
+	-->
+</head>
+
+<body>
+
+
+<style type="text/css">
+</style>
+
+<div class="container-narrow">
+
+<div class="masthead">
+	<ul class="nav nav-pills pull-right">
+	<li ><a href="/">Home</a></li>
+	<li ><a href="/about">About</a></li>
+	<li ><a href="/news">News</a></li>
+	<li ><a href="/contact">Contact</a></li>
+	</ul>
+	<h3 class="muted"><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/new_osglogo.78x40.png"><!--<img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/osg.diamonds.64.png">--><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/open_science_grid.png"></h3>
+<h3 style="font-size:18pt"></h3>
+</div>
+
+<hr>
+
+<h3>Exploring the origins of mass using fermions and the Open Science Grid</h3>
+<p><a href="http://www.opensciencegrid.org/wp-content/uploads/2015/04/Shailesh-Chandrasekharan.jpg"><img class="alignleft size-thumbnail wp-image-215341" src="http://www.opensciencegrid.org/wp-content/uploads/2015/04/Shailesh-Chandrasekharan-150x150.jpg" alt="Shailesh Chandrasekharan" width="150" height="150" /></a>Duke University Associate Professor of Physics Shailesh Chandrasekharan and his graduate student Venkitesh Ayyar are using the Open Science Grid (OSG) to tackle notoriously difficult problems in quantum systems. These quantum systems are the physical systems of our universe, being investigated at the fundamental level where elemental units carrying energy behave according to the laws of quantum mechanics. In many cases, these units might be referred to as particles or more generally as “quantum degrees of freedom.”  The most exciting physics arises when these units are strongly correlated:  the behavior of each one depends on the system as a whole; they cannot be taken and studied independently.  Such systems arise naturally in many areas of fundamental physics, ranging from condensed matter (many materials fabricated in laboratories contain electrons that are strongly correlated and show exotic properties) to nuclear and particle physics.</p>
+<p><strong><em>Photo Credit:  Shailesh Chandrasekharan</em></strong></p>
+<p>The proton, one of the particles inside an atom’s nucleus, is itself a strongly correlated bound state involving many quarks and gluons. Understanding its properties is an important research area in nuclear physics. The origin of mass and energy in the universe could be the result of strong correlations between fundamental quantum degrees.</p>
+<p>“Often we can write down the microscopic theory that describes a physical system. For example, we believe we know how quarks and gluons interact with each other to produce a proton. But then to go from there to calculate, for instance, the spin of the proton or its structure is non-trivial,&#8221; said Chandrasekharan. &#8220;Similarly, in a given material we have a good grasp of how electrons hop from one atom to another. However, from that theory to compute the conductivity of a strongly correlated material is very difficult. The final answer—that helps us understand things better—requires a lot of computation. Typically the computational cost grows exponentially with the number of interacting quantum degrees of freedom.”</p>
+<p>According to Chandrasekharan, the main challenge is to take this exponentially hard problem and convert it to something that scales as a polynomial and can be computed on a classical computer. “This step is often impossible for many strongly correlated quantum systems, due to the so-called <a href="http://en.wikipedia.org/wiki/Numerical_sign_problem">sign problem</a> which arises due to quantum mechanics,” added Chandrasekharan. “Once the difficult sign problem is solved, we can use Monte Carlo calculations to obtain answers. Computing clusters like the OSG can be used at that stage.”</p>
+<p>Chandrasekharan has proposed an idea, called the <a href="http://link.springer.com/article/10.1140%2Fepja%2Fi2013-13090-y">fermion bag approach</a>, that has solved numerous sign problems that seemed unsolvable in systems containing fermions (electrons and quarks are examples of fermions). In order to understand a new mechanism for the origin of mass in the universe, Ayyar is specifically using the OSG to study an interacting theory of fermions using the fermion bag approach.</p>
+<p><center><br />
+<a href="http://www.opensciencegrid.org/wp-content/uploads/2015/04/Fermion-Bag.jpg"><img class="aligncenter size-medium wp-image-215331" src="http://www.opensciencegrid.org/wp-content/uploads/2015/04/Fermion-Bag-300x300.jpg" alt="Fermion Bag" width="300" height="300" srcset="https://www.opensciencegrid.org/wp-content/uploads/2015/04/Fermion-Bag-300x300.jpg 300w, https://www.opensciencegrid.org/wp-content/uploads/2015/04/Fermion-Bag-150x150.jpg 150w, https://www.opensciencegrid.org/wp-content/uploads/2015/04/Fermion-Bag-1024x1024.jpg 1024w, https://www.opensciencegrid.org/wp-content/uploads/2015/04/Fermion-Bag-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a></center></p>
+<p style="text-align: center;"><strong><em>Illustration of a fermion bag configuration. Image credit: Shailesh Chandrasekharan</em></strong></p>
+<p>&nbsp;</p>
+<p>“We compute correlation functions on lattices and look at their behavior as the lattice size increases,” Ayyar explained. In the presence of a mass, the correlation functions decay exponentially. “Ideally, we would want to perform computations on very large lattices (&gt; 100x100x100). Each calculation involves computing the inverse of large matrices millions of times. The matrix size scales with the lattice size and so the time taken increases very quickly (from days to weeks to months). This is what limits the size of the lattice used in our computation and the precision of the quantities calculated.” In a recent publication, Ayyar and Chandrasekharan performed computations on lattices of sizes up to 28x28x28, and more recently they have been able to push these to lattices of size 40x40x40.</p>
+<p>Since their computation is parallelizable, they can run several calculations at the same time. Ayyar says this makes the OSG perfect for their work. “Instead of running a job for 100 days sequentially,” he noted, “we can run 100 jobs simultaneously for one day to get the same information. This not only helps us speed up our calculation several times, but we also get very high precision.”</p>
+<p>Ayyar uses simple scripts to submit a large number of jobs and monitor their progress. One challenge he faced was the check-pointing of jobs. “Some of our jobs run long, say two to six days, and we found these getting terminated before completion due to the queuing system,” Ayyar said. To solve this, he developed what he calls &#8216;manual check-<a href="http://www.opensciencegrid.org/wp-content/uploads/2015/04/Venkitesh.jpg"><img class="alignleft size-thumbnail wp-image-215351" src="http://www.opensciencegrid.org/wp-content/uploads/2015/04/Venkitesh-150x150.jpg" alt="Venkitesh" width="150" height="150" /></a>pointing&#8217; to execute jobs in pieces. “This extends the completed processes and submits them so that long-running processes can be completed. Being able to control the memory and disk-space requirements on the target nodes has proved to be extremely useful.”</p>
+<p>Ayyar also noted that many individual research groups cannot afford the luxury of having thousands of computing nodes. “This kind of resource sharing on the OSG has helped computational scientists like us attempt calculations that could not be done before,” he added. “For example, we are now attempting computations on lattices of size 60x60x60. One sweep should only take a few hours on each core.”<br />
+<strong><em>Photo Credit:  Venkitesh Ayyar</em></strong></p>
+<p>Chandrasekharan points out that past technology breakthroughs like the kind that revolutionized processor chip manufacturing have largely been based on basic quantum mechanics learned in the 1940s and 1950s. “We still need to understand the complexity that can be produced when many quantum degrees of freedom interact with each other strongly,” said Chandrasekharan. “The physics we learn could be quite rich.”</p>
+<p>He says this next phase of research is already happening in nanoelectronics. “If the computational quantum many-body challenge that we face today is solved, it may help revolutionize the next generation of technology and give us a better understanding of the physics.”</p>
+<p>Ayyar and Chandrasekharan recently submitted a paper based on their work using the OSG. Titled <a href="http://journals.aps.org/prd/abstract/10.1103/PhysRevD.91.065035"><em>Massive fermions without fermion bilinear condensates</em></a>, it has been published in the journal <em>Physical Review D</em> of the American Physical Society.</p>
+<p>~ Greg Moore</p>
+
+<hr>
+
+</div><!--container-narrow-->
+<footer>
+<div class="footer-content">
+<div class="row-fluid">
+<div class="span8">
+Funded by <a href="http://nsf.gov" target="_blank">National Science Foundation</a> and <a href="http://science.energy.gov/" target="_blank">Department of Energy</a><br>
+</div>
+<div class="span4">
+<p class="pull-right">&copy; 2013-2018 Open Science Grid | <a target="_blank" href="https://twiki.grid.iu.edu/bin/view/Operations/IUPrivacyPolicy">Privacy Policy</a> <!--<a href="https://plus.google.com/117155860240957321314" rel="publisher">Google+</a>--></p>
+<p></p>
+</div>
+</div><!--row-fluid-->
+</div><!--cooter content-->
+</footer>
+
+<script src="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/js/bootstrap.min.js"></script>
+
+<script>
+jQuery(function() {
+		/*bootstrap-ify things*/
+	jQuery("table.icalprop").addClass("pull-right");
+	jQuery("table.ical").addClass("table");
+	jQuery("table.ical .addevent").addClass("pull-right");
+	jQuery("table.ical .map").addClass("pull-left");
+	jQuery(".wysija-submit").addClass("btn btn-primary");
+});
+</script>
+
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/comment-reply.min.js?ver=4.9.3'></script>
+<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+ 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69012-28', 'opensciencegrid.org');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+

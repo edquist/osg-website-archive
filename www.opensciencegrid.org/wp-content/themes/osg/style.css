@@ -1,0 +1,126 @@
+/*
+ * Theme Name: OSG Theme
+ * Theme URI: http://www.opensciencegrid.org
+ * Description: Wordpress Theme designed for Open Science Grid
+ * Author: Soichi Hayashi
+ * Author URI: http://soichi.grid.iu.edu
+ * Version: 1.0
+ * Tags: bootstrap
+ *
+ * License: Apache 2
+ * License URI: http://www.apache.org/licenses/LICENSE-2.0.html
+ *
+ * This theme uses twitter bootstrap and Google webfonts
+ * */
+
+body {
+/*color: #b67b3c;*/
+padding-top: 20px;
+/* font-family: Georgia,"Times New Roman",Times,serif;*/
+}
+
+.masthead ul {
+margin: 0px;
+}
+.masthead h3 {
+margin: 0px;
+font-size: 26px;
+}
+
+/* Custom container */
+.container-narrow {
+margin: 0 auto;
+max-width: 928px;
+}
+.container-narrow > hr {
+margin: 20px 0;
+}
+.container-narrow img {
+padding-right: 6px;
+}
+
+.sidebar-nav {
+padding: 9px 0;
+}
+
+/*plugin: ical plugin*/
+table.ical td.amrcol1 {
+width: 130px;
+}
+
+/*plugin: blog feed */
+.wprssmi-cs-items {
+margin-bottom: 10px;
+padding-bottom: 10px;
+border-bottom: 1px solid #eee;
+}
+/*plugin: post listing*/
+.display-posts-listing .excerpt-dash {
+display: none;
+}
+.display-posts-listing {
+margin: 0px;
+list-style-type: none;
+}
+.wprssmi-cs-items div.title a[target],
+.display-posts-listing a.title {
+text-transform: capitalize;
+font-weight: bold;
+}
+.display-posts-listing span.excerpt {
+display: block;
+margin-bottom: 10px;
+padding-bottom: 10px;
+border-bottom: 1px solid #eee;
+}
+.vcalendar,
+.icalnav {
+display: none;
+}
+
+/*
+ **************************************************************************************************
+ Override bootstrap responsive padding
+ */
+@media (max-width: 767px)
+body {
+padding: 0px !important;
+padding: 0px !important;
+}
+
+/*****************************************************
+ * footer
+ */
+footer {
+border-top: solid 1px  #333;
+background-color: #714311;
+color: #ca8;
+margin-top: 130px;
+padding: 20px;
+}
+.footer-content {
+max-width: 900px;
+margin-left: auto;
+margin-right: auto;
+}
+
+footer .osglogo {
+margin: 30px auto 0px auto;
+}
+
+footer a {
+color: orange;
+}
+footer a:hover {
+color: white;
+}
+img.alignleft {
+float: left;
+}
+img.alignright {
+float: right;
+}
+
+.wysija_archive_date {
+display: none;
+}
