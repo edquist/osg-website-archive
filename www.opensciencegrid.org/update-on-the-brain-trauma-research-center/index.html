@@ -33,8 +33,8 @@ img.emoji {
 }
 </style>
 <link rel='stylesheet' id='validate-engine-css-css'  href='../wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js'></script>
 <link rel='https://api.w.org/' href='../wp-json/index.html' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.opensciencegrid.org/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
@@ -45,7 +45,7 @@ img.emoji {
 <script type='text/javascript'>
 							SG_POPUPS_QUEUE = [];
 							SG_POPUP_DATA = [];
-							SG_APP_POPUP_URL = 'https://www.opensciencegrid.org/wp-content/plugins/popup-builder';
+							SG_APP_POPUP_URL = '../wp-content/plugins/popup-builder';
 							SG_POPUP_VERSION='2.61_1;';
 							function sgAddEvent(element, eventName, fn) {
 								if (element.addEventListener)
@@ -56,9 +56,9 @@ img.emoji {
 						</script><link rel="icon" href="../wp-content/uploads/2018/01/favicon-32x32.png" sizes="32x32" />
 <link rel="icon" href="../wp-content/uploads/2018/01/favicon-32x32.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="../wp-content/uploads/2018/01/favicon-32x32.png" />
-<meta name="msapplication-TileImage" content="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" />
+<meta name="msapplication-TileImage" content="../wp-content/uploads/2018/01/favicon-32x32.png" />
 	<!--
-	<script src="https://www.opensciencegrid.org/wp-content/themes/osg/jquery-1.9.1.min.js"></script>
+	<script src="../wp-content/themes/osg/jquery-1.9.1.min.js"></script>
 	-->
 </head>
 
@@ -77,7 +77,7 @@ img.emoji {
 	<li class="active"><a href="../news/index.html">News</a></li>
 	<li ><a href="../contact/index.html">Contact</a></li>
 	</ul>
-	<h3 class="muted"><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/new_osglogo.78x40.png"><!--<img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/osg.diamonds.64.png">--><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/open_science_grid.png"></h3>
+	<h3 class="muted"><img src="../wp-content/themes/osg/images/new_osglogo.78x40.png"><!--<img src="../wp-content/themes/osg/images/osg.diamonds.64.png">--><img src="../wp-content/themes/osg/images/open_science_grid.png"></h3>
 <h3 style="font-size:18pt"></h3>
 </div>
 
@@ -86,17 +86,17 @@ img.emoji {
 <h3>Update on the Brain Trauma Research Center</h3>
 <p>The Brain Trauma Research Center at the University of Pittsburgh is a multidisciplinary research program funded by the NIH’s National Institute of Neurological Disorders and Stroke. The center uses the Open Science Grid (OSG) to handle the large data sets produced by their research.</p>
 <p>“We are attempting to understand, diagnose, and treat concussion,” says Donald Krieger. “This is head injury which quite often leaves no detectable traces in brain imaging but which often causes substantive and long lasting problems and suffering.”</p>
-<div id="attachment_224421" style="max-width: 296px" class="wp-caption aligncenter"><a href="../wp-content/uploads/2016/08/meg.png"><img class="wp-image-224421 size-full" src="http://www.opensciencegrid.org/wp-content/uploads/2016/08/meg.png" alt="meg" width="286" height="405" srcset="https://www.opensciencegrid.org/wp-content/uploads/2016/08/meg.png 286w, https://www.opensciencegrid.org/wp-content/uploads/2016/08/meg-212x300.png 212w" sizes="(max-width: 286px) 100vw, 286px" /></a><p class="wp-caption-text">Figure 1: The Brain Trauma Research Center gathers magnetoencephalography (MEG) data from patient and normal control volunteers. Courtesy Don Krieger.</p></div>
+<div id="attachment_224421" style="max-width: 296px" class="wp-caption aligncenter"><a href="../wp-content/uploads/2016/08/meg.png"><img class="wp-image-224421 size-full" src="../wp-content/uploads/2016/08/meg.png" alt="meg" width="286" height="405" srcset="../wp-content/uploads/2016/08/meg.png 286w, https://www.opensciencegrid.org/wp-content/uploads/2016/08/meg-212x300.png 212w" sizes="(max-width: 286px) 100vw, 286px" /></a><p class="wp-caption-text">Figure 1: The Brain Trauma Research Center gathers magnetoencephalography (MEG) data from patient and normal control volunteers. Courtesy Don Krieger.</p></div>
 <p>As part of a coordinated team effort housed within the center, Krieger and his colleagues record the dynamic magnetic fields produced by the brain. Krieger devises data analysis methods, and handles programming based on the magnetoencephalography (MEG) data.</p>
 <p>It is critical to identify the location and time course of the neuroelectric currents which contribute to these recordings. They devised a novel method to solve the requisite electromagnetic equations independently, one neuroelectric event at a time: the referee consensus solver. The independence of the referee consensus solver precisely maps to the process independence required for efficient use of the OSG.</p>
 <p>“Our method enables us to reduce the search to three dimensions at a time, the three location coordinates of a single detectable neuroelectric event,” says Krieger. “But since the referee consensus metric converges only when used to search within a few millimeters of a true source, the search covering the brain must be divided into something like 3,000 separate searches, each covering about ½ cm<sup>3</sup>.”</p>
 <p>“We think of the Open Science Grid as a loosely coupled supercomputer—as a large collection of independent computer processing elements,” says Krieger. “That independence is due to low available bandwidth for inter-processor communication. That imposes a fundamental limitation which must be respected to use the resource efficiently.”</p>
 <p>&nbsp;</p>
-<div id="attachment_224431" style="max-width: 363px" class="wp-caption aligncenter"><a href="https://www.youtube.com/watch?v=kD8V7zVIf0A"><img class="wp-image-224431 size-full" src="http://www.opensciencegrid.org/wp-content/uploads/2016/08/brain.png" alt="Figure 2: (Click image to view video.) The revolving globe is a 1 millimeter (mm) thick spherical shell. The view begins at the front of the brain and rotates through the right side, back, and finally the left side. Courtesy Don Krieger" width="353" height="353" /></a><p class="wp-caption-text">Figure 2: (Click image to view video.) The revolving globe is a 1 millimeter (mm) thick spherical shell. The view begins at the front of the brain and rotates through the right side, back, and finally the left side. Courtesy Don Krieger</p></div>
+<div id="attachment_224431" style="max-width: 363px" class="wp-caption aligncenter"><a href="https://www.youtube.com/watch?v=kD8V7zVIf0A"><img class="wp-image-224431 size-full" src="../wp-content/uploads/2016/08/brain.png" alt="Figure 2: (Click image to view video.) The revolving globe is a 1 millimeter (mm) thick spherical shell. The view begins at the front of the brain and rotates through the right side, back, and finally the left side. Courtesy Don Krieger" width="353" height="353" /></a><p class="wp-caption-text">Figure 2: (Click image to view video.) The revolving globe is a 1 millimeter (mm) thick spherical shell. The view begins at the front of the brain and rotates through the right side, back, and finally the left side. Courtesy Don Krieger</p></div>
 <p>The referee consensus solver is implemented in a small executable image of 300 megabytes. “Each instance runs independently of all others and is short lived—about an hour,” says Krieger. “Our effort requires about 90,000 CPU hours to handle the 30-minute data set from each volunteer. Without the OSG or a comparable supercomputing resource, our effort would stall.”</p>
 <p>Since his first report in the OSG newsletter in 2012, Krieger has made some improvements in using the OSG. “The tricky thing about the OSG is how you handle the data that each job uses and produces,” says Krieger. “We recently altered how we do that and have significantly reduced the amount of data that has to be moved.</p>
 <p>“Using the OSG efficiently and to good advantage is a challenge, especially at first,” says Krieger, “but, it’s easy to try, and for us, well worth the effort.”</p>
-<div id="attachment_224441" style="max-width: 715px" class="wp-caption aligncenter"><a href="../wp-content/uploads/2016/08/graph.png"><img class="wp-image-224441 size-full" src="http://www.opensciencegrid.org/wp-content/uploads/2016/08/graph.png" alt="Figure 3: OSG usage over the past year." width="705" height="345" srcset="https://www.opensciencegrid.org/wp-content/uploads/2016/08/graph.png 705w, https://www.opensciencegrid.org/wp-content/uploads/2016/08/graph-300x147.png 300w, https://www.opensciencegrid.org/wp-content/uploads/2016/08/graph-600x294.png 600w" sizes="(max-width: 705px) 100vw, 705px" /></a><p class="wp-caption-text">Figure 3: OSG usage over the past year.</p></div>
+<div id="attachment_224441" style="max-width: 715px" class="wp-caption aligncenter"><a href="../wp-content/uploads/2016/08/graph.png"><img class="wp-image-224441 size-full" src="../wp-content/uploads/2016/08/graph.png" alt="Figure 3: OSG usage over the past year." width="705" height="345" srcset="../wp-content/uploads/2016/08/graph.png 705w, https://www.opensciencegrid.org/wp-content/uploads/2016/08/graph-300x147.png 300w, https://www.opensciencegrid.org/wp-content/uploads/2016/08/graph-600x294.png 600w" sizes="(max-width: 705px) 100vw, 705px" /></a><p class="wp-caption-text">Figure 3: OSG usage over the past year.</p></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&#8211; Donald Krieger and Greg Moore</p>
@@ -120,7 +120,7 @@ Funded by <a href="http://nsf.gov" target="_blank">National Science Foundation</
 </div><!--cooter content-->
 </footer>
 
-<script src="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/js/bootstrap.min.js"></script>
+<script src="../wp-content/themes/osg/bootstrap/js/bootstrap.min.js"></script>
 
 <script>
 jQuery(function() {
@@ -133,8 +133,8 @@ jQuery(function() {
 });
 </script>
 
-<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/comment-reply.min.js'></script>
-<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js'></script>
  
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

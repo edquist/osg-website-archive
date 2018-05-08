@@ -33,8 +33,8 @@ img.emoji {
 }
 </style>
 <link rel='stylesheet' id='validate-engine-css-css'  href='../wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css' type='text/css' media='all' />
-<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js'></script>
 <link rel='https://api.w.org/' href='../wp-json/index.html' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.opensciencegrid.org/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
@@ -45,7 +45,7 @@ img.emoji {
 <script type='text/javascript'>
 							SG_POPUPS_QUEUE = [];
 							SG_POPUP_DATA = [];
-							SG_APP_POPUP_URL = 'https://www.opensciencegrid.org/wp-content/plugins/popup-builder';
+							SG_APP_POPUP_URL = '../wp-content/plugins/popup-builder';
 							SG_POPUP_VERSION='2.61_1;';
 							function sgAddEvent(element, eventName, fn) {
 								if (element.addEventListener)
@@ -56,9 +56,9 @@ img.emoji {
 						</script><link rel="icon" href="../wp-content/uploads/2018/01/favicon-32x32.png" sizes="32x32" />
 <link rel="icon" href="../wp-content/uploads/2018/01/favicon-32x32.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="../wp-content/uploads/2018/01/favicon-32x32.png" />
-<meta name="msapplication-TileImage" content="https://www.opensciencegrid.org/wp-content/uploads/2018/01/favicon-32x32.png" />
+<meta name="msapplication-TileImage" content="../wp-content/uploads/2018/01/favicon-32x32.png" />
 	<!--
-	<script src="https://www.opensciencegrid.org/wp-content/themes/osg/jquery-1.9.1.min.js"></script>
+	<script src="../wp-content/themes/osg/jquery-1.9.1.min.js"></script>
 	-->
 </head>
 
@@ -77,7 +77,7 @@ img.emoji {
 	<li ><a href="../news/index.html">News</a></li>
 	<li ><a href="../contact/index.html">Contact</a></li>
 	</ul>
-	<h3 class="muted"><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/new_osglogo.78x40.png"><!--<img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/osg.diamonds.64.png">--><img src="https://www.opensciencegrid.org/wp-content/themes/osg/images/open_science_grid.png"></h3>
+	<h3 class="muted"><img src="../wp-content/themes/osg/images/new_osglogo.78x40.png"><!--<img src="../wp-content/themes/osg/images/osg.diamonds.64.png">--><img src="../wp-content/themes/osg/images/open_science_grid.png"></h3>
 <h3 style="font-size:18pt"></h3>
 </div>
 
@@ -93,7 +93,7 @@ img.emoji {
 <p>Le-Shin Wu points out that today’s technologies for genome sequencing are faster and cheaper, and create more sequence data than ever before. With limited local computing resources, analyzing, understanding, and using these vast amounts of genomic information become challenging in terms of efficiency. One solution is to split a single, sizeable analysis task into many independent, smaller tasks and then distribute them to multiple computing resources in parallel. The OSG, which can support large amounts of central processing unit (CPU) hours simultaneously, provides a means to accomplish this.</p>
 <p>Soichi Hayashi has been researching a way to run BLAST in parallel by splitting up the target database into many chunks and making it run in a distributed high-throughput computing (DHTC) environment, namely the OSG. In turn, Carrie Ganote has enabled OSG BLAST on IU’s Galaxy interface. Ganote says that the interface for running BLAST on OSG will provide an alternative to the National Center for Biotechnology Information BLAST servers, which are wonderful for small jobs and parameter tinkering, but prohibitively slow for large jobs (and require an active browser for the duration of the run).</p>
 <p>“A fast alternative on stable resources would allow the public to increase their productivity without needing to install BLAST themselves or run it from the command line,” Ganote says. “Our current implementation is on IU resources, but any NSF-funded project may have access to NCGAS support by creating an account with us.”</p>
-<p><strong><a href="../wp-content/uploads/2014/01/OSG_blast_notes.jpg"><img class="alignleft size-full wp-image-4041" src="http://www.opensciencegrid.org/wp-content/uploads/2014/01/OSG_blast_notes.jpg" alt="OSG_blast_notes" width="613" height="459" srcset="https://www.opensciencegrid.org/wp-content/uploads/2014/01/OSG_blast_notes.jpg 613w, https://www.opensciencegrid.org/wp-content/uploads/2014/01/OSG_blast_notes-300x224.jpg 300w, https://www.opensciencegrid.org/wp-content/uploads/2014/01/OSG_blast_notes-600x449.jpg 600w" sizes="(max-width: 613px) 100vw, 613px" /></a>More efficiency for researchers</strong></p>
+<p><strong><a href="../wp-content/uploads/2014/01/OSG_blast_notes.jpg"><img class="alignleft size-full wp-image-4041" src="../wp-content/uploads/2014/01/OSG_blast_notes.jpg" alt="OSG_blast_notes" width="613" height="459" srcset="../wp-content/uploads/2014/01/OSG_blast_notes.jpg 613w, https://www.opensciencegrid.org/wp-content/uploads/2014/01/OSG_blast_notes-300x224.jpg 300w, https://www.opensciencegrid.org/wp-content/uploads/2014/01/OSG_blast_notes-600x449.jpg 600w" sizes="(max-width: 613px) 100vw, 613px" /></a>More efficiency for researchers</strong></p>
 <p>Ganote’s work focuses mainly on genome and transcriptome assembly and downstream analysis. “When dealing with biology,” she says, “nothing is 100% predictable. This is certainly true with genomics. Every organism is different, and even with very closely related species, it’s not always safe to guess that one will be completely like another.”</p>
 <p>“When attempting analysis and assessment of a new organism, it&#8217;s difficult to tell whether the path one is taking is the correct one,” continues Ganote, “and often trial and error is the only way forward. This may mean running software many times with different settings, looking for the ‘best’ result. When each software run takes days (maybe even weeks), this can make for a large time sink for researchers.”</p>
 <p>Ganote and her collaborators are seeking to speed up the execution from weeks to days, running searches on a scale that is simply impossible using traditional methods. BLAST searches are a key tool for bioinformatics researchers; however, Hayashi estimates that the sizes of these databases are increasing faster than Moore&#8217;s law. Therefore, running BLAST on the OSG may provide a good alternative to traditional methods of executing BLAST.</p>
@@ -126,7 +126,7 @@ Funded by <a href="http://nsf.gov" target="_blank">National Science Foundation</
 </div><!--cooter content-->
 </footer>
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script src="https://www.opensciencegrid.org/wp-content/themes/osg/bootstrap/js/bootstrap.min.js"></script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script src="../wp-content/themes/osg/bootstrap/js/bootstrap.min.js"></script>
 
 <script>
 jQuery(function() {
@@ -139,8 +139,8 @@ jQuery(function() {
 });
 </script>
 
-<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/comment-reply.min.js'></script>
-<script type='text/javascript' src='https://www.opensciencegrid.org/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js'></script>
  
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
